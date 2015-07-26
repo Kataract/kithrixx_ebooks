@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+''' docstring goes hurr '''
 
 import argparse
 from pymarkovchain import MarkovChain
